@@ -1,5 +1,5 @@
 {
   "project": "EDS_Practice_ysc",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
+  "editUrlPattern": "https://drive.google.com/open?id={{id}}"
 }
